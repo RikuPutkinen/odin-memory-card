@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177.32953mm"
+   height="153.57187mm"
+   viewBox="0 0 177.32953 153.57187"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="darkBlueTriangle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="322.52491"
+     inkscape:cy="368.4099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.042136,-58.161646)">
+    <path
+       sodipodi:type="star"
+       style="fill:#2e53e6;fill-opacity:1;stroke-width:2.64567;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       id="path3270"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="334.6326"
+       sodipodi:cy="462.60251"
+       sodipodi:r1="386.95276"
+       sodipodi:r2="155.56525"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 669.74352,656.07889 -670.22184115,0 L 334.6326,75.64975 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,15.168692,38.145983)"
+       inkscape:transform-center-y="-20.579986" />
+  </g>
+</svg>
